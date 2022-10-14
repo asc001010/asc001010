@@ -3,9 +3,14 @@
 ## 주소 : 한림대학교
 ## 연락처 : 010-3562-0273
 
+```c
+int val = 10;
+printf(%s,"hello,World!");
+```
 
-
-### Hi there 👋
+**두껍게 써봐용**
+*이탤릭체로 써봐요*
+>소크라테스는 너 자신을 알라고 했다
 
 <!--
 **asc001010/asc001010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
