@@ -5,7 +5,7 @@
 
 ```c
 string name = "AhnSeungChan" ;
-printf(%s,name);
+printf(name);
 ```
 
 **두껍게 써봐용**
