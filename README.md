@@ -4,8 +4,8 @@
 ## 연락처 : 010-3562-0273
 
 ```c
-string name = "AhnSeungChan" ;
-printf(name);
+int year = 23;
+printf(%s,"이름은 안승찬);
 ```
 
 **두껍게 써봐용**
