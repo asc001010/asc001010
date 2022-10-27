@@ -9,9 +9,9 @@ printf("이름은 안승찬")
 printf("나이는 %d 입니다",year)
 ```
 
-**두껍게 써봐용**
-*이탤릭체로 써봐요*
->소크라테스는 너 자신을 알라고 했다
+**아직 개발 실력이 많이 부족합니다**
+*예쁘게 봐주세용*
+>저는 게임 개발을 합니다.
 
 <!--
 **asc001010/asc001010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
