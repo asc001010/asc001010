@@ -34,6 +34,7 @@ printf("나이는 %d 입니다",year)
 <h2> 서공제 준비</h2>
 
 <h3>할로윈 디펜스 게임</h3>
+![image](https://user-images.githubusercontent.com/115769266/198289976-c17a78f5-78f9-4360-9d84-b742def6819a.png)
 
 - - -
 <h3>너의 이름은?</h3>
