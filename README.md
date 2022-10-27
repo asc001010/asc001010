@@ -42,7 +42,13 @@ printf("나이는 %d 입니다",year)
   * 적에게 자신의 성을 지켜 나가는 게임
 
 - - -
-<h3>너의 이름은?</h3>
+<h3>취미 생활</h3>
+
+### 🌱 옥상에 작은 텃밭을 관리한다.
+### 😄 친구들과 함께 카페가는걸 좋아한다.
+- - -
+<h4>게임 개발에 관심 있거나 프로젝트 같이 해보고 싶은 분 연락 주세요 !!!<h4>
+
 <!--
 **asc001010/asc001010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
