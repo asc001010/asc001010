@@ -4,7 +4,7 @@
 ## 주소 : 한림대학교
 ## 연락처 : 010-3562-0273
 * 이메일 : asc001062@naver.com
-* 생년월일 : 20001010
+* 생년월일 : 2000년 10월 10일
 
 ```c
 int year = 23;
@@ -20,6 +20,7 @@ printf("나이는 %d 입니다",year)
 
 * * *
 <h1>현재 게임 개발 프로젝트</h1>
+ㅎ2ㅎ2
 <!--
 **asc001010/asc001010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
