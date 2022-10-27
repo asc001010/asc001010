@@ -3,6 +3,8 @@
 ## 이름 : 안승찬
 ## 주소 : 한림대학교
 ## 연락처 : 010-3562-0273
+* 이메일 : asc001062@naver.com
+* 생년월일 : 20001010
 
 ```c
 int year = 23;
@@ -13,10 +15,11 @@ printf("나이는 %d 입니다",year)
 **아직 개발 실력이 많이 부족합니다**
 *예쁘게 봐주세용*
 >저는 게임 개발을 합니다.
+>tmi : 내 생년월일 6자리를 2잔수라 할때 10진수로 바꿔도 10이다
 
 
 * * *
-* 안승찬의 
+<h1>현재 게임 개발 프로젝트</h1>
 <!--
 **asc001010/asc001010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
