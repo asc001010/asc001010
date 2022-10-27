@@ -21,7 +21,7 @@ printf("나이는 %d 입니다",year)
 * * *
 <h1>현재 개발 프로젝트</h1>
 <h3>건강 케어 서비스 : "알약을 알려드림"</h3>
-![Alt text](/newFolder/ProjectApp.png)
+<img src="/newFolder/ProjectApp.png" width="450px" height="600px" title="px(픽셀) 크기 설정" alt="RubberDuck"></img><br/>
 
 
 <h3>너의 이름은?</h3>
