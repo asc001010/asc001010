@@ -35,8 +35,11 @@ printf("나이는 %d 입니다",year)
 
 <h3>할로윈 디펜스 게임</h3>
 <img src="/newFolder/ProjectApp2.png" width="550px" height="400px" title="px(픽셀) 크기 설정" alt="RubberDuck2"></img>
+
 * 주요기능
-  * ㅎ2ㅎ2
+  * 포탑 타워 디펜스 게임
+  * 포탑을 Player 가 수리 할 수 잇다
+  * 적에게 자신의 성을 지켜 나가는 게임
 
 - - -
 <h3>너의 이름은?</h3>
