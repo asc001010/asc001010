@@ -16,7 +16,7 @@ printf("나이는 %d 입니다",year)
 
 
 * * *
-안승찬의 
+* 안승찬의 
 <!--
 **asc001010/asc001010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
