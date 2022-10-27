@@ -34,7 +34,9 @@ printf("나이는 %d 입니다",year)
 <h2> 서공제 준비</h2>
 
 <h3>할로윈 디펜스 게임</h3>
-<img src="/newFolder/ProjectApp2.png" width="450px" height="600px" title="px(픽셀) 크기 설정" alt="RubberDuck2"></img>
+<img src="/newFolder/ProjectApp2.png" width="550px" height="400px" title="px(픽셀) 크기 설정" alt="RubberDuck2"></img>
+* 주요기능
+  * ㅎ2ㅎ2
 
 - - -
 <h3>너의 이름은?</h3>
