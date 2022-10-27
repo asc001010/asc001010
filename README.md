@@ -1,5 +1,5 @@
 
- 안승찬의 프로파일
+#  안승찬의 프로파일
 ## 이름 : 안승찬
 ## 주소 : 한림대학교
 ## 연락처 : 010-3562-0273
@@ -15,7 +15,8 @@ printf("나이는 %d 입니다",year)
 >저는 게임 개발을 합니다.
 
 
-
+* * *
+안승찬의 
 <!--
 **asc001010/asc001010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
