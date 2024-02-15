@@ -7,7 +7,7 @@
 * 생년월일 : 2000년 10월 10일
 
 ```c
-int year = 23;
+int year = 25;
 printf("이름은 안승찬")
 printf("나이는 %d 입니다",year)
 ```
