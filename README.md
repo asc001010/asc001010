@@ -1,6 +1,6 @@
 
 
-![header](https://capsule-render.vercel.app/api?type=soft)
+![header](https://capsule-render.vercel.app/api?type=Venom&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
 #  안승찬의 프로파일
 ## 이름 : 안승찬
 ## 주소 : 한림대학교
@@ -48,7 +48,7 @@ printf("나이는 %d 입니다",year)
 ### 🌱 옥상에 작은 텃밭을 관리한다.
 ### 😄 친구들과 함께 카페가는걸 좋아한다.-->
 - - -
-## 게임 개발에 관심 있거나 프로젝트 같이 해보고 싶은 분 연락 주세요 !!!
+
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
 
