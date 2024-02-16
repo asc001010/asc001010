@@ -56,7 +56,8 @@ printf("나이는 %d 입니다",year)
 
  <div align=center>
   <h3>🍀SKIIL</h3>
-  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=TypeScript&logoColor=white"/>
+   <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/>
+
 <br>
  
 </div>
