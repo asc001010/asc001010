@@ -3,18 +3,15 @@
 
  <div align=center>
    <div align=center>
-  <h3>🍀SKIIL</h3>
-  
-
-<br>
+  <h3>🍀SKIIL</h3><br>
  <img src="https://img.shields.io/badge/javascript-white?style=flat&logo=javascript&logoColor=black"/>
  <img src="https://img.shields.io/badge/unity-blue?style=flat&logo=unity&logoColor=black"/>
  <img src="https://img.shields.io/badge/c-A8B9CC?style=flat&logo=c&logoColor=white"/>
  <img src="https://img.shields.io/badge/c++-00599C?style=flat&logo=c++&logoColor=white"/>
  <img src="https://img.shields.io/badge/unrealengine-0E1128?style=flat&logo=unrealengine&logoColor=white"/>
- </n>
- </n>
-</n>
+<br>
+<br>
+<br>
 </div>
   <H1>⚠️INTRODUCTION⚠️ </H1>
   
