@@ -59,7 +59,7 @@ printf("나이는 %d 입니다",year)
   
 
 <br>
- <img src="https://img.shields.io/badge/Scss-green?style=flat&logo=Sass&logoColor=CC6699"/>
+ <img src="https://img.shields.io/badge/Scss-white?style=flat&logo=Sass&logoColor=CC6699"/>
 
 </div>
 
