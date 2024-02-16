@@ -2,7 +2,6 @@
 ![header](https://capsule-render.vercel.app/api?type=Venom&color=auto&height=350&section=header&text=Welcome%20MyWorld&fontSize=90)
 
  <div align=center>
-   <div align=center>
   <h3>🍀SKIIL</h3><br>
  <img src="https://img.shields.io/badge/javascript-white?style=flat&logo=javascript&logoColor=black"/>
  <img src="https://img.shields.io/badge/unity-blue?style=flat&logo=unity&logoColor=black"/>
@@ -16,7 +15,7 @@
 <br>
 <br>
 <br>
-</div>
+
   <H1>⚠️INTRODUCTION⚠️ </H1>
   
   
@@ -42,8 +41,7 @@ printf("나이는 %d 입니다",year)
 
 
 <h1>Project</h1>
-* 건강 케어 서비스 : "알약을 알려드림"
-
+건강 케어 서비스 : "알약을 알려드림"
 <img src="/newFolder/ProjectApp.png" width="250px" height="330px" title="메롱" alt="RubberDuck"></img>
 
 * 알약 검색 기능 : 정보를 찾고 싶은 약의 사진을 찍어 정보를 찾아 준다.
