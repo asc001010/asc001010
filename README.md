@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice)
+![header](https://capsule-render.vercel.app/api?type=soft)
 #  안승찬의 프로파일
 ## 이름 : 안승찬
 ## 주소 : 한림대학교
