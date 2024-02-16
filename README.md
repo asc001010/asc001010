@@ -45,7 +45,7 @@ printf("나이는 %d 입니다",year)
 <h1>현재 개발 프로젝트</h1>
 
 <h3>건강 케어 서비스 : "알약을 알려드림"</h3>
-<img src="/newFolder/ProjectApp.png" width="450px" height="400px" title="px(픽셀) 크기 설정" alt="RubberDuck"></img>
+<img src="/newFolder/ProjectApp.png" width="250px" height="400px" title="px(픽셀) 크기 설정" alt="RubberDuck"></img>
 
 * 알약 검색 기능 : 정보를 찾고 싶은 약의 사진을 찍어 정보를 찾아 준다.
 * 건강 트레이너 : 사용자의 건강을 관리를 해준다.
