@@ -41,9 +41,7 @@ printf("나이는 %d 입니다",year)
 * tmi : 내 생년월일 6자리를 2잔수라 할때 10진수로 바꿔도 10이다
 
 
-
-<h1>현재 개발 프로젝트</h1>
-
+<h1>Project</h1>
 <h3>건강 케어 서비스 : "알약을 알려드림"</h3>
 <img src="/newFolder/ProjectApp.png" width="250px" height="330px" title="px(픽셀) 크기 설정" alt="RubberDuck"></img>
 
@@ -72,6 +70,7 @@ printf("나이는 %d 입니다",year)
 
 
 ⭐⭐⭐⭐⭐⭐⭐
+github 방문 횟수
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
 
 <!--
