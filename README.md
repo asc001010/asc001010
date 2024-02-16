@@ -61,7 +61,6 @@ printf("나이는 %d 입니다",year)
 <br>
  <img src="https://img.shields.io/badge/javascript-white?style=flat&logo=javascript&logoColor=black"/>
  <img src="https://img.shields.io/badge/unity-blue?style=flat&logo=unity&logoColor=black"/>
- <img src="https://img.shields.io/badge/c#-512BD4?style=flat&logo=c#&logoColor=white"/>
  <img src="https://img.shields.io/badge/c-A8B9CC?style=flat&logo=c&logoColor=white"/>
  <img src="https://img.shields.io/badge/c++-00599C?style=flat&logo=c++&logoColor=white"/>
  <img src="https://img.shields.io/badge/unrealengine-0E1128?style=flat&logo=unrealengine&logoColor=white"/>
