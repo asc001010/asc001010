@@ -54,9 +54,10 @@ printf("나이는 %d 입니다",year)
 ### 🌱 옥상에 작은 텃밭을 관리한다.
 ### 😄 친구들과 함께 카페가는걸 좋아한다.-->
 
-<div aligin=center>🍀SKIIL
+ <div align=center>
+  ##🍀SKIIL
 <br>
- g2
+ 
 </div>
 
 
