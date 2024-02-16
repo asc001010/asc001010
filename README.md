@@ -9,6 +9,10 @@
  <img src="https://img.shields.io/badge/c-A8B9CC?style=flat&logo=c&logoColor=white"/>
  <img src="https://img.shields.io/badge/c++-00599C?style=flat&logo=c++&logoColor=white"/>
  <img src="https://img.shields.io/badge/unrealengine-0E1128?style=flat&logo=unrealengine&logoColor=white"/>
+ <br>
+ <img src="https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white"/>
+ <img src="https://img.shields.io/badge/jupyter-F37626?style=flat&logo=jupyter&logoColor=white"/>
+  
 <br>
 <br>
 <br>
