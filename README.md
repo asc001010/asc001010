@@ -55,7 +55,8 @@ printf("나이는 %d 입니다",year)
 ### 😄 친구들과 함께 카페가는걸 좋아한다.-->
 
 <div aligin=center>🍀SKIIL
-ㅎ2
+<br>
+ g2
 </div>
 
 
