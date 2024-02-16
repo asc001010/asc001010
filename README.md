@@ -1,8 +1,8 @@
 
 
-![header](https://capsule-render.vercel.app/api?type=Venom&color=auto)
-![header](https://capsule-render.vercel.app/api?text=Hello%World)
-<!--&height=300&section=header&text=Hello%20MyWorld&fontSize=90-->
+![header](https://capsule-render.vercel.app/api?type=Venom&color=auto&height=300&section=header&text=Hello%20MyWorld&fontSize=90)
+
+<!---->
 #  안승찬의 프로파일
 ## 이름 : 안승찬
 ## 주소 : 한림대학교
