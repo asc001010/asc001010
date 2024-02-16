@@ -2,6 +2,20 @@
 ![header](https://capsule-render.vercel.app/api?type=Venom&color=auto&height=300&section=header&text=Welcome%20MyWorld&fontSize=90)
 
  <div align=center>
+   <div align=center>
+  <h3>🍀SKIIL</h3>
+  
+
+<br>
+ <img src="https://img.shields.io/badge/javascript-white?style=flat&logo=javascript&logoColor=black"/>
+ <img src="https://img.shields.io/badge/unity-blue?style=flat&logo=unity&logoColor=black"/>
+ <img src="https://img.shields.io/badge/c-A8B9CC?style=flat&logo=c&logoColor=white"/>
+ <img src="https://img.shields.io/badge/c++-00599C?style=flat&logo=c++&logoColor=white"/>
+ <img src="https://img.shields.io/badge/unrealengine-0E1128?style=flat&logo=unrealengine&logoColor=white"/>
+ </n>
+ </n>
+</n>
+</div>
   <H1>⚠️INTRODUCTION⚠️ </H1>
   
   
@@ -54,20 +68,7 @@ printf("나이는 %d 입니다",year)
 ### 🌱 옥상에 작은 텃밭을 관리한다.
 ### 😄 친구들과 함께 카페가는걸 좋아한다.-->
 
- <div align=center>
-  <h3>🍀SKIIL</h3>
-  
 
-<br>
- <img src="https://img.shields.io/badge/javascript-white?style=flat&logo=javascript&logoColor=black"/>
- <img src="https://img.shields.io/badge/unity-blue?style=flat&logo=unity&logoColor=black"/>
- <img src="https://img.shields.io/badge/c-A8B9CC?style=flat&logo=c&logoColor=white"/>
- <img src="https://img.shields.io/badge/c++-00599C?style=flat&logo=c++&logoColor=white"/>
- <img src="https://img.shields.io/badge/unrealengine-0E1128?style=flat&logo=unrealengine&logoColor=white"/>
- </n>
- </n>
----
-</div>
 
 ⭐⭐⭐⭐⭐⭐⭐
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
