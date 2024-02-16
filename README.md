@@ -1,4 +1,3 @@
-📁
 
 ![header](https://capsule-render.vercel.app/api?type=Venom&color=auto&height=300&section=header&text=Welcome%20MyWorld&fontSize=90)
 
@@ -55,6 +54,9 @@ printf("나이는 %d 입니다",year)
 ### 🌱 옥상에 작은 텃밭을 관리한다.
 ### 😄 친구들과 함께 카페가는걸 좋아한다.-->
 
+<div aligin=center>🍀SKIIL
+ㅎ2
+</div>
 
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
