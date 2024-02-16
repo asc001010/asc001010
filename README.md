@@ -55,7 +55,8 @@ printf("나이는 %d 입니다",year)
 ### 😄 친구들과 함께 카페가는걸 좋아한다.-->
 
  <div align=center>
-  ##🍀SKIIL
+  <h3>🍀SKIIL</h3>
+  <img src="https://img.shields.io/badge/TypeScript-#F7DF1E?style=flat&logo=TypeScript&logoColor=white"/>
 <br>
  
 </div>
