@@ -59,7 +59,8 @@ printf("나이는 %d 입니다",year)
   
 
 <br>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Scss-green?style=flat&logo=Sass&logoColor=CC6699"/>
+
 </div>
 
 
