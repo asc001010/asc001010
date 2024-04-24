@@ -1,24 +1,14 @@
 <!DOCTYPE html>
 <html lang="ko">
-    <head>cleaningDay
+    <head>
         <meta name = "viewport" content="width=divice-width, initial-scale=10">
         <title>cleaningDay</title>
+        <link rel="stylesheet" type="text/css" href="MainStyle.css">
     </head>
     <body>
-        <!--
-        <style>
-            *{
-                list-style: none;
-                text-decoration: none;
-                border-collapse:  collapse;
-                margin: 0px;
-                padding: 0px;
-                color: black;
-            }
-        </style>
-        -->
+      
         <header>
-            <a href="#" class="logo">Logo</a>
+            <a href="#" class="logo">CleanningDay</a>
             <div class ="group">
                 <ul class ="nav">
                     <li><a href="#">HOME</a></li>
@@ -28,9 +18,34 @@
                     <li><a href="#">CONTACT</a></li>
                 </ul>
                 <div class="search">
-                    <span class="icon"></span>
+                    <span class="icon">
+                        <ion-icon name="search-outline" class="searchBtn"></ion-icon>
+                        <ion-icon name="close-outline" class="closeBtn"></ion-icon>
+                    </span>
                 </div>
             </div>
+            <div class="searchBox">
+                <input type="text" placeholder="Searching here...">
+            </div>
         </header>
-        </body>
+        <script type="module" src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.esm.js"></script>
+        <script nomodule src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.js"></script>
+
+        <script>
+            let searchBtn = document.querySelector('.searchBtn');
+            let closeBtn = document.querySelector('.closeBtn');
+            let searchBox = document.querySelector('.searchBox');
+
+            searchBtn.onclick = function(){
+                searchBox.classList.add('active');
+                closeBtn.classList.add('active');
+                searchBtn.classList.add('active');
+            }
+            closeBtn.onclick = function(){
+                searchBox.classList.remove('active');
+                closeBtn.classList.remove('actvie');
+                searchBtn.classList.remove('active');
+            }
+        </script>
+    </body>
 </html>
