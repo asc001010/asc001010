@@ -133,3 +133,49 @@ header .search{
     transition: 0.5s;
     scale: 1;
 }
+.menuToggle{
+    position: relative;
+    display: none;
+}
+/*now, make it responsive*/
+@media (max-width: 800px){
+    .searchBtn{
+        left: 0;
+        
+    }
+
+    .menuToggle{
+        position: absolute;
+        display: block;
+        font-size: 2em;
+        cursor: pointer;
+        transform: translateX(30px);
+        z-index: 10;
+    }
+
+    header .nav{
+        position: absolute;
+        opacity: 0;
+        visibility: hidden;
+        left: 100%;
+    }
+    header.open .nav{
+        top: 80px;
+        opacity: 1;
+        visibility: visible;
+        left: 0;
+        flex-direction:  column;
+        background: #fff;
+        width:  100%;
+        height: calc(100vh - 80px);
+        padding: 40px;
+        border-top: 1px solid rgba(0, 0, 0, 0.5);
+    }
+    header.open .nav li a{
+        font-size: 1.25em;
+        
+    }
+    .hide{
+        display: none;
+    }
+}

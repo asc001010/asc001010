@@ -11,7 +11,7 @@
             <a href="#" class="logo">CleanningDay</a>
             <div class ="group">
                 <ul class ="nav">
-                    <li><a href="#">HOME</a></li>
+                    <li><a href="./cleaningdayMain.html">HOME</a></li>
                     <li><a href="#">ABOUT</a></li>
                     <li><a href="#">SERVICES</a></li>
                     <li><a href="#">Blog</a></li>
@@ -23,6 +23,7 @@
                         <ion-icon name="close-outline" class="closeBtn"></ion-icon>
                     </span>
                 </div>
+                <ion-icon name="menu-outline" class="menuToggle"></ion-icon> 
             </div>
             <div class="searchBox">
                 <input type="text" placeholder="Searching here...">
@@ -35,17 +36,30 @@
             let searchBtn = document.querySelector('.searchBtn');
             let closeBtn = document.querySelector('.closeBtn');
             let searchBox = document.querySelector('.searchBox');
+            let nav =document.querySelector('.nav');
+            let menuToggle = document.querySelector('.menuToggle')
+            let header = document.querySelector('header');
 
             searchBtn.onclick = function(){
                 searchBox.classList.add('active');
                 closeBtn.classList.add('active');
                 searchBtn.classList.add('active');
+                menuToggle.classList.add('hide')
+                header.classList.remove('open');
             }
             closeBtn.onclick = function(){
                 searchBox.classList.remove('active');
                 closeBtn.classList.remove('active');
                 searchBtn.classList.remove('active');
+                menuToggle.classList.remove('hide');
             }
+            menuToggle.onclick = function(){
+                header.classList.toggle('open');
+                searchBox.classList.remove('active');
+                closeBtn.classList.remove('active');
+                searchBtn.classList.remove('active');
+                
+             }
         </script>
     </body>
 </html>
