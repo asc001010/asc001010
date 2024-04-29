@@ -32,19 +32,20 @@
 
 
         <div class ="visualImage">
-            <img src="./ImageFolder/visual_image.jpg">
+            <img src="./ImageFolder/CleanImage.jpg">
         </div>
 
-        <div class="category_list">
-            <li>가전제품</li>
-            <li>가전제품</li>
-            <li>가전제품</li>
-            <li>가전제품</li>
-            <li>가전제품</li>
-            <li>가전제품</li>
-            <li>가전제품</li>
-            <li>가전제품</li>
-
+        <div class="category-bar">
+            <button><img src="./ImageFolder/stairs.png"><div>계단</div></button>
+            <button><img src="./ImageFolder/duster.png"><div>가전제품</div></button>
+            <button><img src="./ImageFolder/airconditioner.png"><div>에어컨 청소</div></button>
+            <button><img src="./ImageFolder/furnitureCleaning.png"><div>가구청소</div></button>
+            <button><img src="./ImageFolder/free-icon-washing-machine-2333366.png"><div>세탁기 청소</div></button>
+            <button><img src="./ImageFolder/free-icon-car-wash-11058710.png"><div>자동차 청소</div></button>
+            <button><img src="./ImageFolder/free-icon-fridge-12748060.png"><div>냉장고 청소</div></button>
+            <button><img src="./ImageFolder/free-icon-carpet-2385892.png"><div>카페트 청소</div></button>
+            <button><img src="./ImageFolder/free-icon-bed-furniture-8633849.png"><div>침대 청소</div></button>    
+          
         </div>
 
         <script type="module" src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.esm.js"></script>
@@ -62,7 +63,7 @@
                 searchBox.classList.add('active');
                 closeBtn.classList.add('active');
                 searchBtn.classList.add('active');
-                menuToggle.classList.add('hide')
+                menuToggle.classList.remove('hide');
                 header.classList.remove('open');
             }
             closeBtn.onclick = function(){
